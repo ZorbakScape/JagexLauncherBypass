@@ -1,0 +1,1 @@
+copy %userprofile%\Downloads\devious-client-launcher.jar %userprofile%\AppData\local\runelite\devious-client-launcher.jar
