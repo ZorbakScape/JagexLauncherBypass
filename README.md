@@ -1,9 +1,8 @@
 # JagexLauncherBypass
-I have created .cmd files that allow you to switch between Runelite and a third-party client for ease of use.
+I have created .cmd files that allow you to switch between Runelite and third-party clients for ease of use.
 
-To start using the Devious client, simply run the 'Devious to runelite appdata.cmd' file, which will move the required files to the AppData folder. After this you can run the 'Devious Runelite Switch.cmd' file to switch between Runelite and Devious.
+To start using the Devious client, download the 'Devious to runelite appdata.cmd' cmd file and execute it. This will move the required files to the AppData folder of your system. After this, you can use 'Devious Runelite Switch.cmd' to switch between Runelite and Devious clients.
 
-Same thing with meteor client run the Meteor to appdata first then the switcher will do the work for you
+Similarly, to use the Meteor client, execute 'Meteor to appdata.cmd' to move the relevant files to the AppData folder. Afterwards, you can use the 'Meteor Runelite Switch.cmd' to switch between Runelite and Meteor clients.
 
-Currently, we have Devious and Meteor client switching available, More will be worked on as more free clients appear
-
+Currently, I have Devious and Meteor client switching available. I will work on adding support for more free third-party clients as they become available.
