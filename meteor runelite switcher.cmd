@@ -13,3 +13,4 @@ if exist "%revert_flag_file%" (
     if exist "%runelite_folder%\meteor-launcher.cfg" (
         ren "%runelite_folder%\meteor-launcher.exe" "runelite.exe"
         ren "%runelite_folder
+pause
