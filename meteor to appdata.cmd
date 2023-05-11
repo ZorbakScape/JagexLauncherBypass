@@ -28,5 +28,4 @@ if /i {%delete_rar%} == {Y} (
     echo Invalid input. Not deleting downloaded archive.
 )
 
-echo Meteor client installation complete.
 pause
