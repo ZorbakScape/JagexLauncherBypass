@@ -1,5 +1,5 @@
 # JagexLauncherBypass
-We have created .cmd files that allow you to switch between Runelite and a third-party client for ease of use.
+I have created .cmd files that allow you to switch between Runelite and a third-party client for ease of use.
 
 To start using the Devious client, simply run the '[Devious to runelite appdata.cmd](https://github.com/ZorbakScape/JagexLauncherBypass/blob/main/Devious%20to%20runelite%20appdata.cmd)' file, which will move the required files to the AppData folder. After this you can run the '[Devious Runelite Switch.cmd](https://github.com/ZorbakScape/JagexLauncherBypass/blob/main/Devious%20Runelite%20Switch.cmd)' file to switch between Runelite and Devious.
 
