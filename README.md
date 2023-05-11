@@ -1,6 +1,8 @@
 # JagexLauncherBypass
 cmd files to switch out the runelite for a third party client
 
+Run first devious to appdata and to switch between runelite and devious run the switch file
+
 Devious and Meteor are the ones currently availble however Devious is what ive worked on the most currently
 
 Devious to runelite appdata
