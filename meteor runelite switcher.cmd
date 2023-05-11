@@ -20,13 +20,11 @@ if exist "%revert_flag_file%" (
     goto :EOF
 )
 
-echo Checking if Meteor is installed...
-
 if exist "%meteor_folder%\runelite.exe" (
-    echo Meteor is currently installed.
+    echo You are now running Meteor
     set is_meteor=true
 ) else if exist "%runelite_folder%\runelite.exe" (
-    echo Default Runelite is currently installed.
+    echo You are now running Runelite
     set is_meteor=false
 ) else (
     echo Unable to detect default installation.
