@@ -5,4 +5,6 @@ To start using the Devious client, download the 'Devious to runelite appdata.cmd
 
 Similarly, to use the Meteor client, execute 'Meteor to appdata.cmd' to move the relevant files to the AppData folder. Afterwards, you can use the 'Meteor Runelite Switch.cmd' to switch between Runelite and Meteor clients.
 
+This script is currently only compatible with Windows. However, I am currently working on creating scripts for Mac operating systems as well.
+
 Currently, I have Devious and Meteor client switching available. I will work on adding support for more free third-party clients as they become available.
