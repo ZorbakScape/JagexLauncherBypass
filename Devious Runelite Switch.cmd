@@ -13,6 +13,6 @@ if exist "%runelite_folder%\devious-client-launcher.jar" (
 ) else (
     echo Unable to detect Runelite version.
     pause
-) 
+)
 
 pause
