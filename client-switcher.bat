@@ -29,15 +29,14 @@ if %download_launcher%==true (
 
 cls
 echo Switched to %mode% successfully.
-pause
 
-if exist "%downloads_folder%\%launcher_filename%" (
+if exist "%downloads_folder%%launcher_filename%" (
     echo Launcher found in Downloads folder, moving to Runelite folder...
-    move "%downloads_folder%\%launcher_filename%" "%runelite_folder%\%launcher_filename%" > nul
-    if exist "%runelite_folder%\%launcher_filename%" (
+    move "%downloads_folder%%launcher_filename%" "%runelite_folder%%launcher_filename%" > nul
+    if exist "%runelite_folder%%launcher_filename%" (
         echo Successfully moved the launcher to Runelite folder.
         echo Deleting the launcher from Downloads folder...
-        del /f "%downloads_folder%\%launcher_filename%" > nul
+        del /f "%downloads_folder%%launcher_filename%" > nul
         echo Done.
     ) else (
         echo Failed to move the launcher to Runelite folder.
