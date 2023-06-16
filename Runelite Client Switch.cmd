@@ -7,7 +7,7 @@ if exist "%runelite_folder%\devious-client-launcher.jar" (
 ) else if exist "%runelite_folder%\runelite-default.jar" (
     ren "%runelite_folder%\runelite.jar" "devious-client-launcher.jar"
     ren "%runelite_folder%\runelite-default.jar" "runelite.jar"
-    set mode=default
+    set mode=runelite
 ) else (
     echo Unable to detect Runelite version.
     pause
