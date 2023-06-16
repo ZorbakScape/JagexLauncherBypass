@@ -14,5 +14,5 @@ if exist "%runelite_folder%\devious-client-launcher.jar" (
 )
 
 cls
-echo Switched to %mode% Runelite successfully.
+echo Switched to %mode% successfully.
 pause
