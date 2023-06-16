@@ -47,3 +47,5 @@ if exist "%downloads_folder%\%launcher_filename%" (
 ) else (
     echo Launcher not found in Downloads folder.
 )
+
+pause
