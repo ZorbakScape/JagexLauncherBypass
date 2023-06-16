@@ -29,6 +29,7 @@ if %download_launcher%==true (
 
 cls
 echo Switched to %mode% successfully.
+pause
 
 if exist "%downloads_folder%\%launcher_filename%" (
     echo Launcher found in Downloads folder, moving to Runelite folder...
