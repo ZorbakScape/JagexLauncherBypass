@@ -7,7 +7,7 @@ This repository contains a set of cmd files that enable users to easily switch b
 To switch to the Devious client: 
 
 1. Download the `client-switcher.bat` cmd file.
-2. Execute the `client-switcher.bat` file, which will automatically download the Devious client if it's not already on the system and switch to it.
+2. Execute the `client-switcher.bat` file, which will automatically download the Devious client if it's not already on the system and switch to and from it.
 
 Alternatively, you can use these two cmd files to switch to Devious client: 
 
