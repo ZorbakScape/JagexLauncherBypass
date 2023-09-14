@@ -17,6 +17,20 @@ Currently, these cmd files are only compatible with Windows operating systems. H
 
 Currently, the cmd files support switching between Runelite and Devious clients. However, we are committed to updating and expanding support for more free third-party clients as they become available. A multi-client switcher thats supports more clients is also in development.
 
+## Troubleshooting
+
+1    Navigate to the folder located at %localappdata%/runelite.
+
+2    Verify that you have the correct JAR files in this folder. Ensure that the switching process is actually changing the filenames as expected.
+
+3    To test the switching functionality, you can run runelite.exe. If the switching does not appear to work, you can try the following:
+
+    a. Delete all JAR files in the folder.
+
+    b. Download the backup Runelite JAR provided in the repository.
+
+    c. Re-download the switching script and run it again."
+
 ## Contributions
 
 Contributions to this project are welcome. Please feel free to submit an issue or pull request with any improvements or bug fixes you may have.
