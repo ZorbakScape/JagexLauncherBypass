@@ -25,11 +25,11 @@ Currently, the cmd files support switching between Runelite and Devious clients.
 
 3    To test the switching functionality, you can run runelite.exe. If the switching does not appear to work, you can try the following:
 
-    a. Delete all JAR files in the folder.
+   a. Delete all JAR files in the folder.
 
-    b. Download the backup Runelite JAR provided in the repository.
+   b. Download the backup Runelite JAR provided in the repository.
 
-    c. Re-download the switching script and run it again."
+   c. Re-download the switching script and run it again."
 
 ## Contributions
 
