@@ -1,6 +1,6 @@
 # JagexLauncherBypass
 
-This repository contains a set of cmd files that enable users to easily switch between different third-party clients, including Runelite, Devious, and Meteor.
+This repository contains a set of cmd files that enable users to easily switch between different third-party clients, including Runelite, and Devious
 
 ## Usage
 
