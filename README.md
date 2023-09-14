@@ -9,9 +9,6 @@ To switch to the Devious client:
 1. Download the `client-switcher.bat` cmd file.
 2. Execute the `client-switcher.bat` file, which will automatically download the Devious client if it's not already on the system and switch to it. If the Devious client is downloaded for the first time, you will need to run the `client-switcher.bat` file again to switch to it.
 
-A multi-client switcher that supports more than one client is currently under development.
-The cmd files can switch between Runelite and Devious clients.
-
 ## Compatibility
 
 Currently, these cmd files are only compatible with Windows operating systems. However, we are working on creating scripts for Mac OS as well.
