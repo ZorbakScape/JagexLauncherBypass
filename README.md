@@ -30,7 +30,7 @@ If you encounter any issues, please follow these steps:
 
    a. Delete all JAR files in the folder.
    
-   b. Download the backup Runelite JAR provided in the repository.
+   b. Download the backup Runelite JAR from runelites github found [here](https://github.com/runelite/launcher/releases/download/2.6.8/RuneLite.jar).
 
    c. Re-download the switching script and run it again.
 
@@ -40,3 +40,5 @@ If you encounter any issues, please follow these steps:
 Contributions to this project are welcome. Please feel free to submit an issue or pull request with any improvements or bug fixes you may have.
 
 Thank you for using JagexLauncherBypass!
+
+
