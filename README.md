@@ -6,8 +6,8 @@ This repository contains a set of cmd files that enable users to easily switch b
 
 To switch to the Devious client:
 
-1. Download the `client-switcher.bat` cmd file.
-2. Execute the `client-switcher.bat` file, which will automatically download the Devious client if it's not already on the system and switch to it. If the Devious client is downloaded for the first time, you will need to run the `client-switcher.bat` file again to switch to it.
+1. Download the `client-switcher.cmd` cmd file.
+2. Execute the `client-switcher.cmd` file, which will automatically download the Devious client if it's not already on the system and switch to it. If the Devious client is downloaded for the first time, you will need to run the `client-switcher.cmd` file again to switch to it.
 3. if it fails to download devious client just manually download it from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar) and you should be good to go when you run the switcher again
 
 ## Compatibility
