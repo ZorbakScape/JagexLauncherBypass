@@ -15,6 +15,7 @@ if exist "%appdata_dir%\%devious_launcher%" (
 
 if exist "%appdata_dir%\%runelite_default%" (
     echo Runelite is installed correctly.
+    set "runelite_installed=true"
 ) else (
     echo Runelite is not currently installed.
     set "error_occurred=true"
@@ -28,6 +29,15 @@ if !error_occurred! == true (
         echo All .jar files in "%appdata_dir%" have been deleted.
     ) else (
         echo .jar files were not deleted. You can manually delete them later.
+    )
+)
+
+if defined runelite_installed (
+    set /p "run_runelite=Do you want to run Runelite to verify the current client? (Y/N): "
+    if /i "!run_runelite!"=="Y" (
+        start "" "%appdata_dir%\runelite.exe"
+    ) else (
+        echo You can run Runelite later to verify the current client.
     )
 )
 
