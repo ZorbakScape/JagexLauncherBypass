@@ -6,7 +6,7 @@ JagexLauncherBypass is a collection of cmd files designed to simplify the proces
 
 To switch to the Devious client, follow these steps:
 
-1. Download the devious client from [here]([here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar))
+1. Download the devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar)
 2. Download the `client-switcher.cmd` file.
 3. Execute the `client-switcher.cmd` file. It will switch to the Devious client.
 
