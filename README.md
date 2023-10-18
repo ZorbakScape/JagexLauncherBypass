@@ -1,19 +1,24 @@
 # JagexLauncherBypass
 
-JagexLauncherBypass is a collection of cmd files designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
+JagexLauncherBypass is a collection of files designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
 
 ## Usage
+To start plese Download the devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar)
+### Windows  
 
 To switch to the Devious client, follow these steps:
 
-1. Download the devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar)
-2. Download the `client-switcher.cmd` file.
-3. Execute the `client-switcher.cmd` file. It will switch to and from the Devious client each time it is executed.
+1. Download the `client-switcher.cmd` file.
+2. Execute the `client-switcher.cmd` file. It will switch to and from the Devious client each time it is executed.
 
+### Linux
+1. Ensure you are using this [jagex launcher for linux](https://github.com/TormStorm/jagex-launcher-linux)
+2. Download the `client-switcher.sh` file.
+3. Execute the `client-switcher.sh` file. It will switch to and from the Devious client each time it is executed.
 
 ## Compatibility
 
-These cmd files are currently compatible with Windows operating systems. We're actively working on creating scripts for Mac OS as well.
+These cmd files are currently compatible with Windows and Linux operating systems. We're actively working on creating scripts for Mac OS as well.
 
 ## Supported Clients
 
