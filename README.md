@@ -3,7 +3,7 @@
 JagexLauncherBypass is a collection of files designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
 
 ## Usage
-To start plese Download the devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar)
+To start please Download the devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar)
 ### Windows  
 
 To switch to the Devious client, follow these steps:
