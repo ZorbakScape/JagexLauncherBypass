@@ -22,6 +22,8 @@ you should find the info that you need in lutris
 ## Compatibility
 
 These cmd files are currently compatible with Windows and Linux operating systems. We're actively working on creating scripts for Mac OS as well.
+#### Disclaimer
+i do not own a second pc for mac or linux so info is needed to support these systems thank you
 
 ## Supported Clients
 
