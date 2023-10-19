@@ -25,7 +25,7 @@ I do not have Linux, so if you encounter any issues, please report them in detai
 These script files are currently compatible with Windows and Linux operating systems. We're actively working on creating scripts for Mac OS as well.
 
 #### Disclaimer
-I do not own a second PC for Mac or Linux, so we need information to support these systems. Thank you for your cooperation.
+I do not own a second PC or a Mac or Linux, so we need information to support these systems. Thank you for your cooperation.
 
 ## Supported Clients
 
