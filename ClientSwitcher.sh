@@ -1,7 +1,7 @@
 #!/bin/bash
 
 downloads_folder="$HOME/Downloads"
-runelite_folder="$HOME/Games/jagex-launcher/drive_c/Program Files (x86)/Jagex Launcher/Games/Runelite/"
+runelite_folder="$HOME/Games/jagex-launcher/drive_c/Program Files (x86)/Jagex Launcher/Games/RuneLite/"
 launcher_filename="devious-client-launcher.jar"
 download_launcher=false
 
@@ -11,14 +11,14 @@ if [ ! -d "$runelite_folder" ]; then
     exit 1
 fi
 
-if [ -f "$runelite_folder/runelite-default.jar" ]; then
-    mv "$runelite_folder/runelite.jar" "$runelite_folder/devious-client-launcher.jar"
-    mv "$runelite_folder/runelite-default.jar" "$runelite_folder/runelite.jar"
+if [ -f "$runelite_folder/Runelite-default.jar" ]; then
+    mv "$runelite_folder/Runelite.jar" "$runelite_folder/devious-client-launcher.jar"
+    mv "$runelite_folder/Runelite-default.jar" "$runelite_folder/Runelite.jar"
     mode="runelite"
 else
     if [ -f "$runelite_folder/devious-client-launcher.jar" ]; then
-        mv "$runelite_folder/runelite.jar" "$runelite_folder/runelite-default.jar"
-        mv "$runelite_folder/devious-client-launcher.jar" "$runelite_folder/runelite.jar"
+        mv "$runelite_folder/Runelite.jar" "$runelite_folder/Runelite-default.jar"
+        mv "$runelite_folder/devious-client-launcher.jar" "$runelite_folder/Runelite.jar"
         mode="devious"
     else
         mode="unknown"
