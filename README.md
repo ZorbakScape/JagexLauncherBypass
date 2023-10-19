@@ -5,10 +5,9 @@
 ## Usage
 
 To get started, please download the Devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar).
+Then to switch to the Devious client, follow these steps:
 
 ### Windows
-
-To switch to the Devious client, follow these steps:
 
 1. Download the `client-switcher.cmd` script file.
 2. Execute the `client-switcher.cmd` script file. It will switch to and from the Devious client each time it is executed.
