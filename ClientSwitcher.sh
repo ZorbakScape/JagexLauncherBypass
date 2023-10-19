@@ -1,7 +1,7 @@
 #!/bin/bash
 
 downloads_folder="$HOME/Downloads"
-runelite_folder="$HOME/Games/jagex-laucher/drive_c/Program Files (x86)/Jagex Launcher/Games/Runelite/"
+runelite_folder="$HOME/Games/jagex-launcher/drive_c/Program Files (x86)/Jagex Launcher/Games/Runelite/"
 launcher_filename="devious-client-launcher.jar"
 download_launcher=false
 
