@@ -1,8 +1,9 @@
 # JagexLauncherBypass
 
-JagexLauncherBypass is a collection of scripts designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
+**JagexLauncherBypass** is a collection of scripts designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
 
 ## Usage
+
 To get started, please download the Devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar).
 
 ### Windows
@@ -13,11 +14,13 @@ To switch to the Devious client, follow these steps:
 2. Execute the `client-switcher.cmd` script file. It will switch to and from the Devious client each time it is executed.
 
 ### Linux
+
 1. Ensure you are using this [Jagex launcher for Linux](https://github.com/TormStorm/jagex-launcher-linux).
 2. Download the `client-switcher.sh` script file.
 3. Execute the `client-switcher.sh` script file. It will switch to and from the Devious client each time it is executed.
 
 #### Disclaimer
+
 I do not have Linux, so if you encounter any issues, please report them in detail. You should find the information you need in Lutris.
 
 ## Compatibility
@@ -25,6 +28,7 @@ I do not have Linux, so if you encounter any issues, please report them in detai
 These script files are currently compatible with Windows and Linux operating systems. We're actively working on creating scripts for Mac OS as well.
 
 #### Disclaimer
+
 I do not own a second PC or a Mac or Linux, so we need information to support these systems. Thank you for your cooperation.
 
 ## Supported Clients
@@ -51,4 +55,8 @@ If you encounter any issues, try the following steps:
 
 We welcome contributions to this project. Feel free to submit issues or pull requests with any improvements or bug fixes you may have.
 
-Thank you for using JagexLauncherBypass.
+Thank you for using **JagexLauncherBypass**.
+
+## Credits
+
+A special thank you to **propergumball38** on Discord for their Linux support; we wouldn't have it without them.
