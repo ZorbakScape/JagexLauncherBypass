@@ -12,13 +12,13 @@ if [ ! -d "$runelite_folder" ]; then
 fi
 
 if [ -f "$runelite_folder/Runelite-default.jar" ]; then
-    mv "$runelite_folder/Runelite.jar" "$runelite_folder/devious-client-launcher.jar"
-    mv "$runelite_folder/Runelite-default.jar" "$runelite_folder/Runelite.jar"
+    mv "$runelite_folder/RuneLite.jar" "$runelite_folder/devious-client-launcher.jar"
+    mv "$runelite_folder/Runelite-default.jar" "$runelite_folder/RuneLite.jar"
     mode="runelite"
 else
     if [ -f "$runelite_folder/devious-client-launcher.jar" ]; then
-        mv "$runelite_folder/Runelite.jar" "$runelite_folder/Runelite-default.jar"
-        mv "$runelite_folder/devious-client-launcher.jar" "$runelite_folder/Runelite.jar"
+        mv "$runelite_folder/RuneLite.jar" "$runelite_folder/Runelite-default.jar"
+        mv "$runelite_folder/devious-client-launcher.jar" "$runelite_folder/RuneLite.jar"
         mode="devious"
     else
         mode="unknown"
