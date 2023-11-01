@@ -13,7 +13,14 @@ Then to switch to the Devious client, follow these steps:
 2. Execute the `client-switcher.cmd` script file. It will switch to and from the Devious client each time it is executed.
 
 ### Linux
+#### Method 1 (easier)
+1. Install Flathub to install flatpaks (info is [here](https://flathub.org/setup))
+2. install [this app](https://flathub.org/apps/com.adamcake.Bolt)
+3. run it and log in then switch to old school
+4. enable custom runelite.jar and use devious jar linked near top
 
+
+#### Method 2 (just as easy but more difficult)
 1. Ensure you are using [Jagex launcher for Linux](https://github.com/TormStorm/jagex-launcher-linux).
 2. Download the `client-switcher-linux.sh` script file.
 3. Execute the `client-switcher-linux.sh` script file. It will switch to and from the Devious client each time it is executed.
