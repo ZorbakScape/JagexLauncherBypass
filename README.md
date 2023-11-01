@@ -1,6 +1,6 @@
 # JagexLauncherBypass
 
-**JagexLauncherBypass** is a collection of scripts designed to simplify the process of switching between different third-party clients, including Runelite and Devious.
+**JagexLauncherBypass** is a collection of scripts designed to simplify the process of switching between different third-party clients, including Runelite and Devious. (only devious supported currently)
 
 ## Usage
 
