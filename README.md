@@ -4,7 +4,7 @@
 
 ## Usage
 
-To get started, please download the Devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar).  
+To get started If using Devious switcher, please download the Devious client from [here](https://github.com/jbx5/devious-launcher/releases/download/devious-client-launcher-1.0.1/devious-client-launcher.jar).  
 Then to switch to the Devious client, follow these steps:
 
 ### Windows
