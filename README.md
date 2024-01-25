@@ -23,8 +23,8 @@ Then to switch to the Devious client, follow these steps:
 
 ##### Method 2 (just as easy but more difficult)
 1. Ensure you are using [Jagex launcher for Linux](https://github.com/TormStorm/jagex-launcher-linux).
-2. Download the `client-switcher-linux.sh` script file.
-3. Execute the `client-switcher-linux.sh` script file. It will switch to and from the Devious client each time it is executed.
+2. Download the `Devious-ClientSwitcher-Linux.sh` script file.
+3. Execute the `Devious-ClientSwitcher-Linux.sh` script file. It will switch to and from the Devious client each time it is executed.
 
 ##### Disclaimer
 
