@@ -10,8 +10,8 @@ Then to switch to the Devious client, follow these steps:
 
 #### Windows
 
-1. Download the `client-switcher.cmd` script file.
-2. Execute the `client-switcher.cmd` script file. It will switch to and from the Devious client each time it is executed.
+1. Download the `devious-client-switcher-windows.cmd` script file.
+2. Execute the `devious-client-switcher-windows.cmd` script file. It will switch to and from the Devious client each time it is executed.
 
 #### Linux
 ##### Method 1 (easier)
