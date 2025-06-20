@@ -16,4 +16,7 @@
 
 ### **✅ Recommended Alternative:**  
 For a safer, actively maintained solution, check out:  
-🔗 **[RLaunch](https://github.com/R3G3XR/RLaunch)**  
+🔗 **[RLaunch](https://github.com/R3G3XR/RLaunch)**
+
+if your looking for old readme it is here 
+
