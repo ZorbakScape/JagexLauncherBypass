@@ -1,3 +1,13 @@
+# ***WARNING***
+Devious Launcher is compromised it will steal your gold
+melxin is saying its fine
+he is the one who is stealing accounts
+devious is no longer safe
+
+
+
+
+
 # JagexLauncherBypass
 
 **JagexLauncherBypass** is a collection of scripts designed to simplify the process of switching between different third-party clients, including Runelite and Devious. (only devious supported currently)
