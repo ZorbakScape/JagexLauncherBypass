@@ -17,6 +17,13 @@
 ### **✅ Recommended Alternative:**  
 For a safer, actively maintained solution, check out:  
 🔗 **[RLaunch](https://github.com/R3G3XR/RLaunch)**  
+---
+---
+---
+# Old Info Pls Ignore
+
+
+
 
 
 # JagexLauncherBypass
